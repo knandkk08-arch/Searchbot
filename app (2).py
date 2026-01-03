@@ -14,8 +14,8 @@ from pyrogram.client import Client
 from pyrogram.errors import FloodWait
 
 # Bot Tokens
-ADMIN_BOT_TOKEN = "8206676554:AAHBW0smVcvEJBDkLe-ypVj3HjEr3p2o-A0"
-USER_BOT_TOKEN = "8432843027:AAEEz04mJVzCPe0iTuylD32laVPiLixAOkY"
+ADMIN_BOT_TOKEN = "--"
+USER_BOT_TOKEN = ":"
 
 # Pyrogram for Number Search (existing - don't touch)
 NUMBER_SEARCH_PYROGRAM = {
